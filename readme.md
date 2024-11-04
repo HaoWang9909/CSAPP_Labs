@@ -10,7 +10,7 @@ Welcome to my repository for documenting my experiments in *Computer Systems: A 
 
 ## Lab 1: Bomblab
 
-In this lab, I learned about buffer overflows and how to exploit them. For detailed documentation, please click [Lab 1 Documentation](./bomblab.md).
+In this lab, I learned about buffer overflows and how to exploit them. For detailed documentation, please click [Lab 1 Documentation](https://legendary-thrush-543.notion.site/3-Machine-Level-Representation-of-Programs-1211ab65f22f803fb945e62b83a909c6?pvs=4).
 
 ## Lab 2: Attacklab
 
