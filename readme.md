@@ -14,7 +14,7 @@ In this lab, I learned about buffer overflows and how to exploit them. For detai
 
 ## Lab 2: Attacklab
 
-This lab focuses on understanding attacks on systems, including techniques for exploitation and defense strategies. For detailed documentation, please click [Lab 2 Documentation](./attacklab.md).
+This lab focuses on understanding attacks on systems, including techniques for exploitation and defense strategies. For detailed documentation, please click [Lab 2 Documentation](http://legendary-thrush-543.notion.site).
 
 ## Lab 3: Archlab
 
